@@ -46,7 +46,7 @@ export default function Cart(props) {
             borderBottom="1px #0B1847 solid"
           >
             <PTags width="40%">
-              <b>Item Description</b>
+              <b>Item</b>
             </PTags>
             <PTags width="25%">
               <b>Price</b>
